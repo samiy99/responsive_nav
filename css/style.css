@@ -100,7 +100,7 @@ nav{
 }
 
 .animate .line1{
-    transform: rotate(-45deg) translate(-5px,4px);
+    transform: rotate(315deg) translate(-5px,4px);
  }
 
 .animate .line2{
