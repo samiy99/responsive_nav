@@ -23,7 +23,7 @@ nav{
 .nav_links{
     display: flex;
     justify-content: space-around;
-    width: 35%;
+    width: 50%;
 }
 .nav_links li{
     list-style: none;
@@ -52,6 +52,8 @@ nav{
 @media screen and (max-width:1024px){
     .nav_links{
         width: 60%;
+
+
     }
 }
 
